@@ -2,6 +2,6 @@
 
 Allows accepting connections and data simultaneously without blocking
 --
-Usage:
+**Usage:**
 Just open a new project and run the server, clients in cli
 

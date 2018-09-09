@@ -1,4 +1,4 @@
-## Chat Application. Python server and client that enables multiple users to communicate
+## Chat Application. Enables multiple users to communicate over the chat established by server
 ---
 **Accepts connections and data simultaneously without blocking**
 
